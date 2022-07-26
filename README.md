@@ -1,5 +1,5 @@
 # GRIP-WebDevelopmentAndDesigningIntern
-Internship Tasks for GRIP program as a Web Development and Designing Intern.
+Internship Task for GRIP program as a Web Development and Designing Intern.
 
 
 
